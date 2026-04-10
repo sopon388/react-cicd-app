@@ -69,4 +69,4 @@ jobs:
           SLACK_COLOR: '#36a64f'
           SLACK_TITLE: 'Production Deployment'
           SLACK_MESSAGE: 'Successfully deployed ${{ github.repository }} (${{ github.sha }})'
-          SLACK_USERNAME: 'GitHub Actions'
+          SLACK_USERNAME: 'GitHub Actions'git add
